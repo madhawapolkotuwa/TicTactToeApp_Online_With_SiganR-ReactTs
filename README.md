@@ -49,3 +49,4 @@
     >> npm install --save typescript @types/node @types/react @types/react-dom @types/jest
     >> npm i react-bootstrap bootstrap
     >> npm i react-router-dom
+    >> npm install @microsoft/signalr
